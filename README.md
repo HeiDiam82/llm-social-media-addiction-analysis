@@ -7,20 +7,20 @@ Proyek ini menggunakan dataset publik yang tersedia di Kaggle.
 
 Nama Dataset: Students Social Media Addiction
 
-Link Akses: Klik di sini untuk melihat dataset
+Link Akses: 
 
 💡 Temuan & Insight Utama (Insight & Findings)
 Berdasarkan analisis yang dilakukan, berikut adalah beberapa temuan kunci:
 
-Platform Paling Berisiko: Mahasiswa yang diklasifikasikan memiliki tingkat kecanduan 'Tinggi' secara signifikan lebih banyak menggunakan Instagram dan TikTok dibandingkan platform lain.
+- Platform Paling Berisiko: Mahasiswa yang diklasifikasikan memiliki tingkat kecanduan 'Tinggi' secara signifikan lebih banyak menggunakan Instagram dan TikTok dibandingkan platform lain.
 
-Korelasi dengan Waktu Tidur: Terdapat korelasi negatif yang kuat antara jam penggunaan media sosial dengan durasi tidur. Rata-rata, kelompok 'Tinggi' tidur 1.5 jam lebih sedikit per malam dibandingkan kelompok 'Rendah'.
+- Korelasi dengan Waktu Tidur: Terdapat korelasi negatif yang kuat antara jam penggunaan media sosial dengan durasi tidur. Rata-rata, kelompok 'Tinggi' tidur 1.5 jam lebih sedikit per malam dibandingkan kelompok 'Rendah'.
 
-Dampak Akademik: Lebih dari 80% mahasiswa dalam kelompok 'Tinggi' melaporkan bahwa penggunaan media sosial mereka berdampak negatif pada performa akademik, dibandingkan hanya 15% pada kelompok 'Rendah'.
+- Dampak Akademik: Lebih dari 80% mahasiswa dalam kelompok 'Tinggi' melaporkan bahwa penggunaan media sosial mereka berdampak negatif pada performa akademik, dibandingkan hanya 15% pada kelompok 'Rendah'.
 
 🤖 Peran Kecerdasan Buatan (AI Support Explanation)
 Large Language Model (LLM) memegang dua peran krusial dalam proyek ini:
 
-Sebagai Pengklasifikasi Cerdas: LLM digunakan untuk membaca dan memahami konteks dari setiap data survei mahasiswa. Berdasarkan pemahaman ini, LLM secara otomatis memberikan label klasifikasi ('Rendah', 'Sedang', atau 'Tinggi') tanpa perlu melatih model machine learning secara manual.
+1. Sebagai Pengklasifikasi Cerdas: LLM digunakan untuk membaca dan memahami konteks dari setiap data survei mahasiswa. Berdasarkan pemahaman ini, LLM secara otomatis memberikan label klasifikasi ('Rendah', 'Sedang', atau 'Tinggi') tanpa perlu melatih model machine learning secara manual.
 
-Sebagai Peringkas Informasi: Setelah data terklasifikasi, LLM menganalisis statistik dari setiap kelompok dan merangkumnya menjadi sebuah profil naratif yyang jelas.ang mudah dipahami. Ini membantu mengubah data mentah menjadi cerita dan insight 
+2. Sebagai Peringkas Informasi: Setelah data terklasifikasi, LLM menganalisis statistik dari setiap kelompok dan merangkumnya menjadi sebuah profil naratif yyang jelas.ang mudah dipahami. Ini membantu mengubah data mentah menjadi cerita dan insight 
