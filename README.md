@@ -1,4 +1,5 @@
 Analisis Kecanduan Media Sosial Mahasiswa dengan LLM
+
 📌 Ringkasan Proyek (Project Overview)
 Proyek ini bertujuan untuk menganalisis data kecanduan media sosial di kalangan mahasiswa. Dengan memanfaatkan kecerdasan buatan (Large Language Model), proyek ini secara otomatis mengklasifikasikan tingkat kecanduan mahasiswa (Rendah, Sedang, Tinggi) dan mengidentifikasi platform serta perilaku yang paling berpengaruh. Tujuannya adalah untuk menghasilkan insight yang dapat ditindaklanjuti guna mempromosikan kebiasaan digital yang lebih sehat.
 
