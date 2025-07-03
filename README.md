@@ -8,7 +8,7 @@ Proyek ini menggunakan dataset publik yang tersedia di Kaggle.
 
 Nama Dataset: Students Social Media Addiction
 
-Link Akses: 
+Link Akses: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
 
 💡 Temuan & Insight Utama (Insight & Findings)
 Berdasarkan analisis yang dilakukan, berikut adalah beberapa temuan kunci:
